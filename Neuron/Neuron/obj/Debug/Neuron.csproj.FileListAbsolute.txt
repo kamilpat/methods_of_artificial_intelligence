@@ -1,0 +1,9 @@
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\bin\Debug\Neuron.exe.config
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\bin\Debug\Neuron.exe
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\bin\Debug\Neuron.pdb
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\obj\Debug\Neuron.csprojResolveAssemblyReference.cache
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\obj\Debug\Neuron.Form1.resources
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\obj\Debug\Neuron.Properties.Resources.resources
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\obj\Debug\Neuron.csproj.GenerateResource.Cache
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\obj\Debug\Neuron.exe
+E:\MSI\Zad2\SztucznaInteligencja\Neuron\Neuron\obj\Debug\Neuron.pdb
